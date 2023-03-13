@@ -1,4 +1,4 @@
-#Codecademy React Spotify SPA
+# Codecademy React Spotify SPA
 
 uses react and spotify api to allow users to build custom playlists.
 project from the codecademy front end development pipeline.
