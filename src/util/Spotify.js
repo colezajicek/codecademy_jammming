@@ -1,5 +1,5 @@
 let accessToken;
-const clientId = '41bff83f521d48f99feb38aa70e476ce';
+const clientId = 'Placeholder';
 const redirectURI = 'http://colezajicek_codecademy_jammming.surge.sh';
 
 const Spotify = {
